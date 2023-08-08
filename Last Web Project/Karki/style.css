@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(background\ image.png);
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+}
